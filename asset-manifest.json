@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deliveats-react/static/css/main.5c48fcea.css",
+    "main.js": "/deliveats-react/static/js/main.9cf17a95.js",
+    "index.html": "/deliveats-react/index.html",
+    "main.5c48fcea.css.map": "/deliveats-react/static/css/main.5c48fcea.css.map",
+    "main.9cf17a95.js.map": "/deliveats-react/static/js/main.9cf17a95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c48fcea.css",
+    "static/js/main.9cf17a95.js"
+  ]
+}
