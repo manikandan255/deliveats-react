@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/deliveats-react/static/css/main.5c48fcea.css",
-    "main.js": "/deliveats-react/static/js/main.fcc7cb2e.js",
+    "main.js": "/deliveats-react/static/js/main.fbbdd682.js",
     "index.html": "/deliveats-react/index.html",
     "main.5c48fcea.css.map": "/deliveats-react/static/css/main.5c48fcea.css.map",
-    "main.fcc7cb2e.js.map": "/deliveats-react/static/js/main.fcc7cb2e.js.map"
+    "main.fbbdd682.js.map": "/deliveats-react/static/js/main.fbbdd682.js.map"
   },
   "entrypoints": [
     "static/css/main.5c48fcea.css",
-    "static/js/main.fcc7cb2e.js"
+    "static/js/main.fbbdd682.js"
   ]
 }
