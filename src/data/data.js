@@ -135,7 +135,7 @@ export const mealData = [
   },
   {
     id: 9,
-    name: 'Chicken Sawarma',
+    name: 'Chiken Sawarma',
     category: 'chicken',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg',
