@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deliveats-react/static/css/main.5c48fcea.css",
-    "main.js": "/deliveats-react/static/js/main.331bd1b1.js",
+    "main.css": "/deliveats-react/static/css/main.fbeb4c76.css",
+    "main.js": "/deliveats-react/static/js/main.bc43f3b8.js",
     "static/media/Features-two.jpg": "/deliveats-react/static/media/Features-two.73522ce9a065823e66c8.jpg",
     "static/media/Features-one.jpg": "/deliveats-react/static/media/Features-one.9d0255a2dad8c7ef744c.jpg",
     "static/media/delivery.png": "/deliveats-react/static/media/delivery.0d4e35c735885b2a4c35.png",
@@ -42,11 +42,11 @@
     "static/media/categories-2.png": "/deliveats-react/static/media/categories-2.415eec31fb92a97c5b9b.png",
     "static/media/categories-5.png": "/deliveats-react/static/media/categories-5.f228b301ed20e6e2ff4a.png",
     "index.html": "/deliveats-react/index.html",
-    "main.5c48fcea.css.map": "/deliveats-react/static/css/main.5c48fcea.css.map",
-    "main.331bd1b1.js.map": "/deliveats-react/static/js/main.331bd1b1.js.map"
+    "main.fbeb4c76.css.map": "/deliveats-react/static/css/main.fbeb4c76.css.map",
+    "main.bc43f3b8.js.map": "/deliveats-react/static/js/main.bc43f3b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c48fcea.css",
-    "static/js/main.331bd1b1.js"
+    "static/css/main.fbeb4c76.css",
+    "static/js/main.bc43f3b8.js"
   ]
 }
