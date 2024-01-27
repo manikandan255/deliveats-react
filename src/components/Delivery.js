@@ -5,7 +5,7 @@ const Delivery = () => {
   return (
     <div className='w-full bg-white py-16 px-4'>
         <h3 className='text-orange-500 font-bold text-2xl text-center'>Quick Delivery App</h3>
-        <div className='w-[1240px] mx-auto grid md:grid-cols-2 w-auto'>
+        <div className='mx-auto grid md:grid-cols-2 w-auto max-w-[1240px]'>
             <img src={deliveryImg} alt="image" className='w-[550px] mx-auto my-4'/>
             <div className='flex flex-col justify-center'>
                 <p className='text-[#00df9a] font-extrabold'>Get The App</p>
