@@ -1,69 +1,105 @@
+import topPicks1 from '../assets/topPicks-1.jpg';
+import topPicks2 from '../assets/topPicks-2.jpg';
+import topPicks3 from '../assets/topPicks-3.jpg';
+import topPicks4 from '../assets/topPicks-4.webp';
+import topPicks5 from '../assets/topPicks-5.jpg';
+import topPicks6 from '../assets/topPicks-6.jpg';
+import topPicks7 from '../assets/topPicks-7.webp';
+import topPicks8 from '../assets/topPicks-8.webp';
+import topPicks9 from '../assets/topPicks-9.jpg';
+import topPicks10 from '../assets/topPicks-10.png';
+import topPicks11 from '../assets/topPicks-11.jpg';
+import mealData1 from '../assets/mealData-1.jpg';
+import mealData2 from '../assets/mealData-2.jpg';
+import mealData3 from '../assets/mealData-3.jpg';
+import mealData4 from '../assets/mealData-4.jpg';
+import mealData5 from '../assets/mealData-5.png';
+import mealData6 from '../assets/mealData-6.jpg';
+import mealData7 from '../assets/mealData-7.jpg';
+import mealData8 from '../assets/mealData-8.jpg';
+import mealData9 from '../assets/mealData-9.jpg';
+import mealData10 from '../assets/mealData-10.jpg';
+import mealData11 from '../assets/mealData-11.jpg';
+import mealData12 from '../assets/mealData-12.jpg';
+import categories1 from '../assets/categories-1.png';
+import categories2 from '../assets/categories-2.png';
+import categories3 from '../assets/categories-3.png';
+import categories4 from '../assets/categories-4.png';
+import categories5 from '../assets/categories-5.png';
+import categories6 from '../assets/categories-6.png';
+import categories7 from '../assets/categories-7.png';
+import categories8 from '../assets/categories-8.png';
+import categories9 from '../assets/categories-9.png';
+import categories10 from '../assets/categories-10.png';
+import categories11 from '../assets/categories-11.png';
+import categories12 from '../assets/categories-12.png';
+
 export const topPicks = [
   {
     id: 1,
     title: 'Shawarma',
     price: '₹129',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg'
+    img: topPicks1
   },
   {
     id: 2,
     title: 'Fruite Juice',
     price: '₹99',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672329939/NetflixApp/fruite_juice_du7uqy.jpg',
+    img: topPicks2
   },
   {
     id: 3,
     title: 'Yogurt Parfaite',
     price: '₹449',
-    img: "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672329944/NetflixApp/yogurt_parfait_kt8b5f.jpg"
+    img: topPicks3
   },
   {
     id: 4,
     title: 'Orange Juice',
     price: '₹129',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672329938/NetflixApp/orangejuice_s4mdbi.webp'
+    img: topPicks4
   },
   {
     id: 5,
     title: 'Egg & Plantain',
     price: '₹349',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672331290/NetflixApp/edd_and_plantain_rey7l4.jpg',
+    img: topPicks5
   },
   {
     id: 6,
     title: 'Tilapia Fish',
     price: '₹699',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672331305/NetflixApp/tilapia_fish_g0ozkn.jpg'
+    img: topPicks6
   },
   {
     id: 7,
     title: 'Jollof Rice',
     price: '₹799',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672332323/NetflixApp/jollof_rice_gbzosf.webp',
+    img: topPicks7
   },
   {
     id: 8,
     title: 'Chiken Burger',
     price: '₹399',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672332323/NetflixApp/chiken_burger_ncsmeh.webp',
+    img: topPicks8
   },
   {
     id: 9,
     title: 'Veg & Plantain',
     price: '₹249',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672331290/NetflixApp/edd_and_plantain_rey7l4.jpg',
+    img: topPicks9
   },
   {
     id: 10,
     title: 'African Salad',
     price: '₹349',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323870/NetflixApp/African_Salad_s7vgxn.png',
+    img: topPicks10
   },
   {
     id: 11,
     title: 'Cheese Pizza',
     price: '₹399',
-    img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/chinese_pizza_kgnbo1.jpg',
+    img: topPicks11
   },
 ];
 
@@ -73,96 +109,84 @@ export const mealData = [
     id: 1,
     name: 'Cheeseless Pizza',
     category: 'pizza',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/cheeseless_pizza_bkuecz.jpg',
+    image: mealData1,
     price: '₹299',
   },
   {
     id: 2,
     name: 'Supreme Pizza',
     category: 'pizza',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324455/NetflixApp/Supreme_Pizza_jtvkj8.jpg',
+    image: mealData2,
     price: '₹399',
   },
   {
     id: 3,
     name: 'Pepperoni Pizza',
     category: 'pizza',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/pepperoni_pizza_axwdat.jpg',
+    image: mealData3,
     price: '₹249',
   },
   {
     id: 4,
     name: 'Cheese Pizza',
     category: 'pizza',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/chinese_pizza_kgnbo1.jpg',
+    image: mealData4,
     price: '₹349',
   },
   {
     id: 5,
     name: 'African Salad',
     category: 'salad',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323870/NetflixApp/African_Salad_s7vgxn.png',
+    image: mealData5,
     price: '₹349',
   },
   {
     id: 6,
     name: 'Kale Salad',
     category: 'salad',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/kale_salad_ogune3.jpg',
+    image: mealData6,
     price: '₹299',
   },
   {
     id: 7,
     name: 'Ceasar Salad',
     category: 'salad',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323859/NetflixApp/caesar-salad-with-tuna-30216-1_noflfd.jpg',
+    image: mealData7,
     price: '₹249',
   },
   {
     id: 8,
     name: 'Loaded Salad',
     category: 'salad',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/loaded_salad_qq5jup.jpg',
+    image: mealData8,
     price: '₹299',
   },
   {
     id: 9,
     name: 'Chicken Sawarma',
     category: 'chicken',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg',
+    image: mealData9,
     price: '₹129',
   },
   {
     id: 10,
     name: 'Wings',
     category: 'chicken',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/chicken-wings_lv3zc9.jpg',
+    image: mealData10,
     price: '₹199',
   },
   {
     id: 11,
     name: 'Roasted Chicken',
     category: 'chicken',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/roast-chicken_nrc6r8.jpg',
+    image: mealData11,
     price: '₹599',
   },
   {
     id: 12,
     name: 'Chicken Tenders',
     category: 'chicken',
-    image:
-      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322923/NetflixApp/chicken_tenders_quel6y.jpg',
+    image: mealData12,
     price: '₹299',
   },
 
@@ -174,74 +198,62 @@ export const mealData = [
     {
       id: 1,
       name: 'Burger',
-      image:
-         'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/burger_logo_hmpqua.png'
+      image: categories1
     },
     {
       id: 2,
       name: 'Vegetable',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/veg_logo_jvm4qn.png'
+      image: categories2
     },
     {
       id: 3,
       name: 'Pizza',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/pizza_logo_dqdqds.png',
+      image: categories3
     },
     {
       id: 4,
       name: 'Wings',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070208/NetflixApp/wings_logo_hrn8zl.png'
+      image: categories4
     },
 
     {
       id: 5,
       name: 'Fastfood',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/fastfood_logo_v80nbk.png'
+      image: categories5
     },
     {
       id: 6,
       name: 'Sharwama',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/sharwama_logo_st4vg8.png'
+      image: categories6
     },
     {
       id: 7,
       name: 'Resottoa',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/resotto_logo_uywrr1.png'
+      image: categories7
     },
     {
       id: 8,
       name: 'Cake',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/cake_edpoec.png'
+      image: categories8
     },
     {
       id: 9,
       name: 'Chiken',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/chiken_logo_ahl2ca.png'
+      image: categories9
     },
     {
       id: 10,
       name: 'ice cream',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/ice_cream_logo_hcqcaa.png'
+      image: categories10
     },
     {
       id: 11,
       name: 'beef',
-      image:
-       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/beef_logo_adnidz.png'
+      image: categories11
     },
     {
       id: 12,
       name: 'apple pie',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/appple_pie_yxfxpm.png'
+      image: categories12
     },
   ];

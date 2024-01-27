@@ -1,17 +1,20 @@
 import React, {useState} from 'react'
 import { BsChevronCompactLeft, BsChevronCompactRight } from 'react-icons/bs'
 import {RxDotFilled} from 'react-icons/rx'
+import featuresOne from '../assets/Features-one.jpg'
+import featuresTwo from '../assets/Features-two.jpg'
+import featuresThree from '../assets/Features-three.jpg'
 
 const Featured = () => {
     const sliders = [
         {
-            url: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672672076/NetflixApp/burger_emxbtv.jpg'
+            url: featuresOne
           },
           {
-            url: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672672452/NetflixApp/pizza_osjb4f.jpg'
+            url: featuresTwo
           },
           {
-            url: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672672612/NetflixApp/ric_a4ewxo.jpg',
+            url: featuresThree
           },
     ]
 
